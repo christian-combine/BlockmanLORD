@@ -1,5 +1,7 @@
 # BlockmanLORD, a big project and a big remake
 
+# hello i forked this for testing with things
+
 ## Help us
 
 - Make pull requets to add fixes or new functions
